@@ -1,0 +1,14 @@
+topic: Knee pain treatment
+description: Learn how to effectively treat knee pain and promote healing.
+
+subtopics:
+1. Rest and ice
+2. Use compression and elevation
+3. Take over-the-counter pain relievers
+4. Practice low-impact exercises
+5. Apply heat therapy
+6. Use knee braces or supports
+7. Try physical therapy exercises
+8. Consider injections or medications
+9. Explore alternative treatments
+10. When to seek medical attention
